@@ -4,7 +4,7 @@ Welcome to Azure PlayFab Multiplayer Servers (MPS) repository with community con
 
 ## Office hours (community calls)
 
-Our next office hour call will take place on Wednesday, August 4th at 9AM PDT (4PM UTC) using the Microsoft Teams platform. Anyone can join!
+Our next office hour call will take place on Wednesday, August 11th at 8.30AM PDT (3.30PM UTC) using the Microsoft Teams platform. Anyone can join!
 
 In this call you will have the chance to:
 
