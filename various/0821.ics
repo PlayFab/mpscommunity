@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZNAME:PDT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:PST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20210726T200528Z
+UID:20210726T200528Z-1400611651@marudot.com
+DTSTART;TZID=America/Los_Angeles:20210811T083000
+DTEND;TZID=America/Los_Angeles:20210811T093000
+SUMMARY:Azure PlayFab Multiplayer Servers August Office Hours
+URL:https://github.com/PlayFab/mpscommunity
+DESCRIPTION:Our next community call will take place on Wednesday\, August 11th at 8.30AM PDT (3.30PM UTC) using the Microsoft Teams platform.\n\nIn this call you will have the chance to:\n\n- meet product managers and software engineers working on Azure PlayFab Multiplayer Servers (MPS) hosting service\n- hear about some of the features we recently launched in the MPS service as well as hear more about our roadmap\n- ask questions about using the MPS service and discuss about best practices\n- anything else in your mind\, agenda is pretty flexible!\n\nCheck the MPScommunity GitHub repo here: https://github.com/PlayFab/mpscommunity/\n\nJoin the Teams meeting here at the specified date and time \nhttps://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDliOWVjNTItOWI3OS00ZDQ0LTg0MDAtYjUzNTU0ZWVkMjMx%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22cc7c557e-d93a-48c6-af68-a4d6c514d733%22%7d
+LOCATION:Microsoft Teams
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Azure PlayFab Multiplayer Servers August Office Hours
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
