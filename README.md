@@ -11,9 +11,7 @@ In this call you will have the chance to:
 - meet product managers and software engineers working on Azure PlayFab Multiplayer Servers (MPS) hosting service
 - hear about some of the features we recently launched in the MPS service as well as hear more about our roadmap
 - ask questions about using the MPS service and discuss on best practices
--- anything else in your mind, agenda is pretty flexible!
-
-PS. This call will focus only on Multiplayer Servers hosting service and not on any other PlayFab services (e.g. Matchmaking). As always, if you have any questions about PlayFab services, you can find us on [Discord](https://discord.gg/gamestack).
+- anything else in your mind, agenda is pretty flexible!
 
 ### Meeting links
 
