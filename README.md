@@ -18,7 +18,7 @@ In this call you will have the chance to:
 | Asset | Link        |
 |:-----------|:------------|
 | 🔗 Meeting Link | [**Teams Call**](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDliOWVjNTItOWI3OS00ZDQ0LTg0MDAtYjUzNTU0ZWVkMjMx%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22cc7c557e-d93a-48c6-af68-a4d6c514d733%22%7d) 
-| :calendar: Calendar invite | [Download](various/0821.ics)
+| :calendar: Calendar invite | [Download](https://mpsvarious.blob.core.windows.net/resources/0821.ics)
 
 There is no registration required, you can optionally suggest extra agenda items and introduce yourselves on [this GitHub issue](https://github.com/PlayFab/mpscommunity/issues/2)
 
