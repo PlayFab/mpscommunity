@@ -1,10 +1,30 @@
 # MPS Community content 
 
-Welcome to Azure PlayFab Multiplayer Servers (MPS) repository with community content! Here you can find info about docs, SDKs, samples, our community calls as well learn more about recent service releases.
+Welcome to Azure PlayFab Multiplayer Servers (MPS) repository with community content! Here you can find info about docs, SDKs, samples and our office hours community calls.
 
-## Office hours
+## Office hours (community calls)
 
-First community call took place on October 21st 2020. Stay tuned for the next one!
+Our next community call will take place on Wednesday, August 4th at 9AM PDT (4PM UTC) using the Microsoft Teams platform.
+
+In this call you will have the chance to:
+
+- meet product managers and software engineers working on Azure PlayFab Multiplayer Servers (MPS) hosting service
+- hear about some of the features we recently launched in the MPS service as well as hear more about our roadmap
+- ask questions about using the MPS service and discuss on best practices
+-- anything else in your mind, agenda is pretty flexible!
+
+PS. This call will focus only on Multiplayer Servers hosting service and not on any other PlayFab services (e.g. Matchmaking). As always, if you have any questions about PlayFab services, you can find us on [Discord](https://discord.gg/gamestack).
+
+### Meeting links
+
+| Asset | Link        |
+|:-----------|:------------|
+| 🔗 Meeting Link | [**Teams Call**](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTNjZTNhZGYtM2RmNC00MDIzLWI1ZWItZjljM2E2OWUxYjM5%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22cc7c557e-d93a-48c6-af68-a4d6c514d733%22%7d) 
+| :calendar: Calendar invite | [Download](https://mpsvarious.blob.core.windows.net/resources/MPS%20Community%20Call.ics)
+
+There is no registration required, you can suggest extra agenda items and introduce yourselves on [this GitHub issue](https://github.com/PlayFab/mpscommunity/issues/1)
+
+CU there!!!
 
 ## Useful links
 
